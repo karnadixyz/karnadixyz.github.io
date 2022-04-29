@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c84ce43c.css",
-    "main.js": "/static/js/main.ed50d5f0.js",
+    "main.js": "/static/js/main.d7e1de18.js",
     "static/media/AvenirNext-UltraLightItalic.ttf": "/static/media/AvenirNext-UltraLightItalic.102e5d4b73dca370d74f.ttf",
     "static/media/AvenirNext-UltraLight.ttf": "/static/media/AvenirNext-UltraLight.cc517cbd583107e2dcf6.ttf",
     "static/media/AvenirNext-Regular.ttf": "/static/media/AvenirNext-Regular.23cf42ac3d6a08ceb033.ttf",
@@ -53,10 +53,10 @@
     "static/media/move_list.svg": "/static/media/move_list.8245d15422a083b6f392fd190f328614.svg",
     "static/media/add.svg": "/static/media/add.3b33fbbe8793541d32f7e02377f06a06.svg",
     "main.c84ce43c.css.map": "/static/css/main.c84ce43c.css.map",
-    "main.ed50d5f0.js.map": "/static/js/main.ed50d5f0.js.map"
+    "main.d7e1de18.js.map": "/static/js/main.d7e1de18.js.map"
   },
   "entrypoints": [
     "static/css/main.c84ce43c.css",
-    "static/js/main.ed50d5f0.js"
+    "static/js/main.d7e1de18.js"
   ]
 }
